@@ -1,0 +1,207 @@
+{
+  "mapMarkers": [
+    {
+      "id": "AldeaDeBarovia ",
+      "lastAccessed": 1715552050676,
+      "markers": [
+        {
+          "id": "ID_c9f94a08987b",
+          "type": "default",
+          "loc": [
+            -0.753326416015625,
+            0.546875
+          ],
+          "link": "La casa del alcalde",
+          "layer": "%5B%5BVillageOfBarovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_080aa84ba879",
+          "type": "default",
+          "loc": [
+            -1.237701416015625,
+            1.01171875
+          ],
+          "link": "Sangre de la Viña",
+          "layer": "%5B%5BVillageOfBarovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8b8b90bba0b",
+          "type": "default",
+          "loc": [
+            -0.393951416015625,
+            0.53515625
+          ],
+          "link": "El cementerio",
+          "layer": "%5B%5BVillageOfBarovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39787af9ab49",
+          "type": "default",
+          "loc": [
+            -1.5212665046712333,
+            0.9921239914472841
+          ],
+          "link": "La tienda de Bildrath",
+          "layer": "%5B%5BVillageOfBarovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0829c9082818",
+          "type": "default",
+          "loc": [
+            -1.6853315726976261,
+            0.910091161893783
+          ],
+          "link": "La casa de María la loca",
+          "layer": "%5B%5BVillageOfBarovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_489a88db2b8a",
+          "type": "default",
+          "loc": [
+            -2.230261977213859,
+            0.910091161893783
+          ],
+          "link": "La casa del alcalde",
+          "layer": "%5B%5BVillageOfBarovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a7bea6b1b5a",
+          "type": "default",
+          "loc": [
+            -0.455724572260345,
+            1.7053973090516519
+          ],
+          "link": "Death House",
+          "layer": "%5B%5BVillageOfBarovia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1. World/Curse of Strahd/Lugares/Aldea de Barovia/Aldea de Barovia.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": "9",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "1279px",
+    "image": "[[VillageOfBarovia.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[VillageOfBarovia.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "10",
+    "minZoom": "9",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "AldeaDeBarovia ",
+    "unit": "feet",
+    "width": "1008px",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

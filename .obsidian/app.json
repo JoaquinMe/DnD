@@ -1,0 +1,14 @@
+{
+  "readableLineLength": false,
+  "attachmentFolderPath": "z_Assets",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

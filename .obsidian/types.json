@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "stealthmod": "number",
+    "Date": "date",
+    "ulmist": "checkbox",
+    "alive": "checkbox",
+    "isAlive": "checkbox",
+    "isTraitor": "checkbox",
+    "location": "text",
+    "read": "checkbox"
+  }
+}

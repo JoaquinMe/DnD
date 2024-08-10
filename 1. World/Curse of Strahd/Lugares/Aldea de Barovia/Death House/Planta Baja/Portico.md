@@ -1,0 +1,1 @@
+>Se encuentran con una puerta de hierro forjado con bisagras en un lado y un candado en el otro, que llena el arco del pórtico de piedra de la casa. Más allá de la puerta, lámparas de aceite cuelgan de cadenas desde el techo del pórtico, flanqueando un conjunto de puertas de roble cerradas.

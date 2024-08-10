@@ -1,0 +1,56 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- compendium/src/5e/phb
+aliases: ["Eldritch Invocation"]
+---
+# Eldritch Invocation
+*Source: Player's Handbook. Available in the SRD.* 
+
+- [Agonizing Blast](z_compendium/optional-features/agonizing-blast.md)
+- [Armor of Shadows](z_compendium/optional-features/armor-of-shadows.md)
+- [Ascendant Step](z_compendium/optional-features/ascendant-step.md)
+- [Aspect of the Moon](z_compendium/optional-features/aspect-of-the-moon-xge.md)
+- [Beast Speech](z_compendium/optional-features/beast-speech.md)
+- [Beguiling Influence](z_compendium/optional-features/beguiling-influence.md)
+- [Bewitching Whispers](z_compendium/optional-features/bewitching-whispers.md)
+- [Book of Ancient Secrets](z_compendium/optional-features/book-of-ancient-secrets.md)
+- [Chains of Carceri](z_compendium/optional-features/chains-of-carceri.md)
+- [Cloak of Flies](z_compendium/optional-features/cloak-of-flies-xge.md)
+- [Devil's Sight](z_compendium/optional-features/devils-sight.md)
+- [Dreadful Word](z_compendium/optional-features/dreadful-word.md)
+- [Eldritch Sight](z_compendium/optional-features/eldritch-sight.md)
+- [Eldritch Smite](z_compendium/optional-features/eldritch-smite-xge.md)
+- [Eldritch Spear](z_compendium/optional-features/eldritch-spear.md)
+- [Eyes of the Rune Keeper](z_compendium/optional-features/eyes-of-the-rune-keeper.md)
+- [Fiendish Vigor](z_compendium/optional-features/fiendish-vigor.md)
+- [Gaze of Two Minds](z_compendium/optional-features/gaze-of-two-minds.md)
+- [Ghostly Gaze](z_compendium/optional-features/ghostly-gaze-xge.md)
+- [Gift of the Depths](z_compendium/optional-features/gift-of-the-depths-xge.md)
+- [Gift of the Ever-Living Ones](z_compendium/optional-features/gift-of-the-ever-living-ones-xge.md)
+- [Grasp of Hadar](z_compendium/optional-features/grasp-of-hadar-xge.md)
+- [Improved Pact Weapon](z_compendium/optional-features/improved-pact-weapon-xge.md)
+- [Lance of Lethargy](z_compendium/optional-features/lance-of-lethargy-xge.md)
+- [Lifedrinker](z_compendium/optional-features/lifedrinker.md)
+- [Maddening Hex](z_compendium/optional-features/maddening-hex-xge.md)
+- [Mask of Many Faces](z_compendium/optional-features/mask-of-many-faces.md)
+- [Master of Myriad Forms](z_compendium/optional-features/master-of-myriad-forms.md)
+- [Minions of Chaos](z_compendium/optional-features/minions-of-chaos.md)
+- [Mire the Mind](z_compendium/optional-features/mire-the-mind.md)
+- [Misty Visions](z_compendium/optional-features/misty-visions.md)
+- [One with Shadows](z_compendium/optional-features/one-with-shadows.md)
+- [Otherworldly Leap](z_compendium/optional-features/otherworldly-leap.md)
+- [Relentless Hex](z_compendium/optional-features/relentless-hex-xge.md)
+- [Repelling Blast](z_compendium/optional-features/repelling-blast.md)
+- [Sculptor of Flesh](z_compendium/optional-features/sculptor-of-flesh.md)
+- [Shroud of Shadow](z_compendium/optional-features/shroud-of-shadow-xge.md)
+- [Sign of Ill Omen](z_compendium/optional-features/sign-of-ill-omen.md)
+- [Thief of Five Fates](z_compendium/optional-features/thief-of-five-fates.md)
+- [Thirsting Blade](z_compendium/optional-features/thirsting-blade.md)
+- [Tomb of Levistus](z_compendium/optional-features/tomb-of-levistus-xge.md)
+- [Trickster's Escape](z_compendium/optional-features/tricksters-escape-xge.md)
+- [Visions of Distant Realms](z_compendium/optional-features/visions-of-distant-realms.md)
+- [Voice of the Chain Master](z_compendium/optional-features/voice-of-the-chain-master.md)
+- [Whispers of the Grave](z_compendium/optional-features/whispers-of-the-grave.md)
+- [Witch Sight](z_compendium/optional-features/witch-sight.md)

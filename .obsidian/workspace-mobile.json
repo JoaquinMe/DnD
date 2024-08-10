@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "26e4af627371ef43",
+    "type": "split",
+    "children": [
+      {
+        "id": "cca35f4ebf9224d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee2a2fdbd3999da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4147d3a68ceb51f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b8f965fd01af6e92",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "df8151728b0e8222",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "79cbfacc13800a5c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "40335517c2f64f0d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "320dfcef46097d63",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f9c28ce04a8a0a9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "38c9a2c4b70cb00e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7df67c565c0da2a0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "2d38c1808e978a6b",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "cc5934014f066b54",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "ecaf6fe317b8b136",
+        "type": "leaf",
+        "state": {
+          "type": "fantasy-statblocks-creature-pane",
+          "state": {}
+        }
+      },
+      {
+        "id": "6307f1696e817e95",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fee2a2fdbd3999da",
+  "lastOpenFiles": [
+    "1. World/Curse of Strahd/Lugares/Vallaki/Campamento Vistani (Vallaki).md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Vallaki.md",
+    "z_compendium/bestiary/legendary-group/strahd-von-zarovich-cos.md",
+    "z_compendium/bestiary/npc/strahd-von-zarovich-cos.md",
+    "z_compendium/spells/scrying.md",
+    "z_compendium/tables/adventuring-gear.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Orfanato de San Andral.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Posada del Agua Azul.md",
+    "z_compendium/items/totem.md",
+    "z_compendium/items/hourglass.md",
+    "z_compendium/items/portable-ram.md",
+    "z_compendium/items/yew-wand.md",
+    "z_compendium/items/abacus.md",
+    "z_compendium/items/ball-bearings-bag-of-1000.md",
+    "2. Mechanics/NPCs/Vallaki/Orfanato de San Andral/Claudia Velazco.md",
+    "2. Mechanics/NPCs/Vallaki/Orfanato de San Andral/Felix.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Catedral de San Andral.md",
+    "2. Session Journals/Sesión 5.md",
+    "2. Mechanics/NPCs/Vallaki/Padre Lucian Petrovich.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/La Plaza del Pueblo.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/La Proclamación(Jamborí).md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/La Proclamación(Sol Naciente).md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/La mansión del alcalde.md",
+    "0. DM Screen/TODO.md",
+    "1. World/Curse of Strahd/Encounters/Introducción con Strahd.md",
+    "2. Mechanics/Tables/Tarokka.md",
+    "z_Assets/MadamEva.webp",
+    "1. World/Curse of Strahd/Lugares/Tser Pool Encampment",
+    "1. World/Curse of Strahd/Lugares/Aldea de Barovia/Death House/La Mansion Durst.canvas",
+    "0. DM Screen/Libros/Monster Manual.pdf",
+    "0. DM Screen/Libros/Curse of Strahd.pdf",
+    "0. DM Screen/Libros/Monsters of the Multiverse (HQ) (BW).pdf",
+    "0. DM Screen/Libros/Xanathar's Guide to Everything.pdf",
+    "0. DM Screen/Libros/Tasha's Cauldron of Everything (Reduced Size).pdf",
+    "0. DM Screen/Libros/Players Handbook.pdf",
+    "0. DM Screen/Libros/Dungeon Master's Guide.pdf",
+    "0. DM Screen/Libros/Valdas.pdf",
+    "0. DM Screen/Libros/Tome of Heroes.pdf",
+    "z_Assets/Pasted image 20240205192923.png",
+    "z_Assets/VillageOfBarovia.jpg",
+    "z_Assets/Pasted image 20240205181334.png",
+    "z_Assets/Pasted image 20240129231917.png"
+  ]
+}

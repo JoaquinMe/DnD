@@ -1,0 +1,5 @@
+*Potion, Uncommon*
+
+This transparent acid constantly bubbles within its sealed vial. As an action, you can throw the vial up to 20 feet, shattering it on impact. Make a ranged attack, treating the vial as an improvised weapon.
+If the target is an object that isn't being worn or carried, the acid dissolves a 1-foot cube of the object. If splashed on a suit of armor or a shield, the object takes a permanent and cumulative - 1 penalty to the AC it offers. If splashed on a weapon, it takes a permanent and cumulative -1 penalty to damage rolls. It has no effect on magic items and objects made of gold, glass, stone, or adamantine.
+If the target is a creature, it takes 3d6 acid damage, followed by an additional 2d6 acid damage at the end of its next turn and another 1d6 acid damage at the end of the turn after that. The aqua fortis can be washed off with one gallon of water, ending the effect early.

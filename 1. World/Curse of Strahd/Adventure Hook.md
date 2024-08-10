@@ -1,0 +1,4 @@
+- Los PCs son mercenarios. Hacen tareas por dinero.
+- Se encuentran con [[Mister Otto]], les ofrece una tarea a cambio de dinero.
+- Los manda con un vistani ([[Arrigal]]) y este los lleva hacia [[La Mansión Durst]]
+- 

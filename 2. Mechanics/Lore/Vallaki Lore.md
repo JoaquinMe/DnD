@@ -1,0 +1,16 @@
+
+![[Barovian Lore]]
+
+- La [[Posada del Agua Azul]] ofrece comida, vine y resguardo a visitantes. Un extranjero con orejas puntiagudas se está quedando ahí. Vino a Barovia desde una tierra lejana. Tiene una carroza de carnaval.
+- El alcalde, el [[Barón Vargas Vallakovich]], ha decretado que el [[Festival del Sol Naciente]] se llevará a cabo en [[La plaza del pueblo]] en tres días. El festival anterior, que él llamó el Carnaval de la Cabeza de Lobo, fue hace menos de una semana.
+- [[Vallaki]] ha soportado al menos un festival cada semana durante varios años. Algunos vallakianos creen que los festivales mantienen al diablo Strahd a raya. Otros piensan que no brindan ninguna protección o beneficio. La mayoría los considera asuntos desoladores.
+- Aquellos que hablan mal de los festivales son declarados por el burgomaestre como aliados del diablo Strahd y arrestados. Algunos son arrojados a las picotas (área N8), mientras que otros son llevados a la mansión del alcalde para que el barón los purgue de su maldad.
+- El secuaz del alcalde, [[Izek Strazni]], tiene un historial de violencia así como una deformidad diabólica: un brazo monstruoso con el que puede conjurar fuego. El temor a Izek mantiene a raya a los enemigos del barón.
+- Nadie odia al burgomaestre más que [[Lady Fiona Wachter]], quien a menudo se cita diciendo: "Prefiero servir al diablo que a un loco." Ella posee una casa antigua en la ciudad ([[Wachterhaus]]) pero rara vez sale de su finca. Sus dos hijos adultos, [[Nikolai Wachter]] y [[Karl Wachter]], son alborotadores locales. Lady Wachter también tiene una hija loca a la que mantiene encerrada. El burgomaestre no enfrenta a Fiona ni a su descendencia porque teme a Lady Wachter, cuya familia tiene antiguos lazos con Strahd.
+- Se han visto destellos púrpuras de luz emanando del ático de la mansión del alcalde.
+- Los lobos y los lobos diabólicos merodean por los bosques y no tienen miedo de atacar a los viajeros en el Viejo Camino de Svalich. Grupos bien armados de cazadores y tramperos han logrado matar a varios de los lobos, pero siguen llegando más.
+- Es demasiado peligroso pescar en el [[Lago Zarovich]] (capítulo 2, área L), pero la amenaza de los lobos de Strahd no ha impedido que Bluto Krogarov, el borracho del pueblo, lo intente. Sale cada mañana y regresa cada noche, pero no ha atrapado ningún pez en un tiempo.
+- No ha habido avistamientos recientes del Mago Loco del Monte Baratok (capítulo 2, área M). La gente solía verlo merodeando por la orilla norte del lago Zarovich, disparando rayos en el agua para matar a los peces. (Si los personajes parecen interesados ​​en conocer a este mago, los lugareños recomiendan que utilicen los botes de pesca en la orilla sur para cruzar el lago, porque es más corto y mucho menos peligroso que caminar alrededor del lago).
+- Hay un [[Campamento Vistani (Vallaki)]] en el bosque al suroeste de la ciudad (área N9). Los Vistani allí no son muy amigables. Los Vistani no son bienvenidos en Vallaki.
+- Al oeste de la ciudad hay una mansión embrujada (ver capítulo 7, "[[Argynvostholt]]"). La leyenda cuenta que un dragón murió allí hace mucho, mucho tiempo.
+- Al sur de la ciudad hay un pueblo que ha sido abandonado durante décadas. Su alcalde cometió algún terrible delito e incurrió en la ira de Strahd.

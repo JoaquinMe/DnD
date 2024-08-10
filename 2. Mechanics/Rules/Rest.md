@@ -1,0 +1,11 @@
+# Short Rest
+A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.  
+  
+A character can spend one or more [Hit Dice](https://roll20.net/compendium/dnd5e/Character%20Advancement#toc_6) at the end of a short rest, up to the character’s maximum number of Hit Dice, which is equal to the character’s level. For each Hit Die spent in this way, the player rolls the die and adds the character’s [Constitution](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_23) [modifier](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=0#toc_1) to it. The character regains [hit points](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_47) equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a [long rest](https://roll20.net/compendium/dnd5e/Rules:Resting?expansion=0#toc_2), as explained below.
+
+# Long Rest
+A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, [casting spells](https://roll20.net/compendium/dnd5e/Rules:Spells?expansion=0#toc_10), or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.  
+  
+At the end of a long rest, a character regains all lost [hit points](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_47). The character also regains spent [Hit Dice](https://roll20.net/compendium/dnd5e/Character%20Advancement#toc_6), up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.  
+  
+A character can’t benefit from more than one long rest in a 24-hour period, and a character must have at least 1 [hit point](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_47) at the start of the rest to gain its benefits.

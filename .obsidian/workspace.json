@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "4d84d53b0f587801",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ba980f57056f1ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef6421a70d6cd071",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. DM Screen/DM Board.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f48f35c2c709be38",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Sesión 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3ca66379d5dfef86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Strahd/Strahd Von Zarovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cda4b735625406f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World/Curse of Strahd/Lugares/Vallaki/La mansión del alcalde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c24413594e15ac9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Mechanics/Tables/Tarokka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f36c18d5fa521586",
+    "type": "split",
+    "children": [
+      {
+        "id": "3325443207f7a388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc8f796bb45a76c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30f3b0366229ea89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52f56c939cf72956",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f26a8d5017cec22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. DM Screen/DM Board.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19bcb56d3d6b8918",
+    "type": "split",
+    "children": [
+      {
+        "id": "832434c6790f1926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60ea2a7f2fbb75b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Mechanics/Tables/Tarokka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea0c76cc53efad6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Mechanics/Tables/Tarokka.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fc2e2a4e93445d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e247921437a1c79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Mechanics/Tables/Tarokka.md"
+              }
+            }
+          },
+          {
+            "id": "f44492aac6add797",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "a17d374041dfd4ec",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "036932c7627ac94b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-content-generator:Fantasy Generators": false
+    }
+  },
+  "active": "036932c7627ac94b",
+  "lastOpenFiles": [
+    "2. Mechanics/Tables/Resultados de Tarokka (PC).md",
+    "2. Mechanics/Tables/Tarokka.md",
+    "0. DM Screen/Resultados de Tarokka (DM).md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/La mansión del alcalde.md",
+    "2. Session Journals/Sesión 6.md",
+    "1. Strahd/Strahd Von Zarovich.md",
+    "z_Assets/Pasted image 20240702201956.png",
+    "1. World/Curse of Strahd/Lugares/Vallaki/La Plaza del Pueblo.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/La casa del Barón.canvas",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Arasek's Stockyard.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Lago Zarovich.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Campamento Vistani (Vallaki).md",
+    "2. Mechanics/NPCs/Vallaki/Vistani Camp/Kasimir Velikov.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Vallaki.md",
+    "0. DM Screen/Ideas.md",
+    "1. World/Curse of Strahd/Lugares/Vallaki/Posada del Agua Azul.md",
+    "2. Mechanics/NPCs/Vallaki/Town Square/Alexei.md",
+    "0. DM Screen/DM Board.md",
+    "2. Mechanics/NPCs/Vallaki/Vistani Camp/Arrigal.md",
+    "z_Assets/Arrigal.webp",
+    "2. Mechanics/NPCs/Vallaki/Vistani Camp/Luvash.md",
+    "z_Assets/Luvash.webp",
+    "z_compendium/bestiary/npc/kasimir-velikov-cos.md",
+    "2. Mechanics/NPCs/Vallaki/Orfanato de San Andral/Milivoj.md",
+    "1. World/Curse of Strahd/Quests/Player Quests/Los exploradores de las tinieblas(Din).md",
+    "0. DM Screen/TODO.md",
+    "1. The Party/Curse of Strahd/Players/Felix.md",
+    "1. World/Curse of Strahd/Encounters/Rescate a Yvonne.md",
+    "1. World/Curse of Strahd/Encounters/Lootdeantes.md",
+    "z_compendium/items/horn-of-silent-alarm-xge.md",
+    "z_Assets/b422a3e09a420d20193a4f3948d708d4.webp",
+    "Untitled.canvas",
+    "z_Assets/Untitled.jpg",
+    "2. Mechanics/NPCs/Vallaki/Town Square",
+    "z_Assets/Pasted image 20240519133203.png",
+    "z_Assets/vnprs9qpe96c1.png",
+    "2. Mechanics/NPCs/Vallaki/Vistani Camp",
+    "z_Assets/elisa-serio-elfo-bardo.jpg",
+    "z_Assets/images.jpg",
+    "z_Assets/Pasted image 20240519100447.png",
+    "2. Mechanics/NPCs/Vallaki/Blue Water Inn",
+    "2. Mechanics/NPCs/Vallaki/Orfanato de San Andral",
+    "1. World/Curse of Strahd/Quests/Player Quests",
+    "1. World/Curse of Strahd/Quests",
+    "1. World/Curse of Strahd/Lugares/Aldea de Barovia/Death House/La Mansion Durst.canvas",
+    "2. Mechanics/Flashbacks/Reynauld Argstone",
+    "1. World/Curse of Strahd/Lugares/Tser Falls",
+    "2. Mechanics/Bestiary/Black Iron Pact",
+    "1. The Party/Curse of Strahd/Players"
+  ]
+}

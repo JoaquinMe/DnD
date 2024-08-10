@@ -1,0 +1,1 @@
+> Pasas por la puerta principal hacia un gran vestíbulo. Colgado en la pared izquierda hay un escudo con un escudo de armas. El escudo está flanqueado por retratos enmarcados de aristócratas de rostros pétreos. Al final del vestíbulo se encuentran unas puertas dobles enmarcadas en caoba, con paneles de vidrieras.
